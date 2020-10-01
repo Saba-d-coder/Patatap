@@ -1,5 +1,5 @@
 canvas{
-    background: black;
+    background: grey;
     width: 100%;
     height: 100%;
 }
@@ -7,3 +7,5 @@ canvas{
 body,html{
     margin: 0;
 }
+
+/*just changed background color*/
